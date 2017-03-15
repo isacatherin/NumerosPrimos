@@ -1,3 +1,4 @@
 Proceso sin_titulo
-	Definir ge, nu,c Como Entero;	
+	Definir ge, nu,c Como Entero;
+	
 FinProceso
